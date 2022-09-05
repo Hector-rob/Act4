@@ -1,0 +1,7 @@
+{  
+    "items": {  
+        "name": ["sword","staff","shield"],
+        "price": [2000,3000,4000],   
+        "material": ["metal","ore","platinum"]
+    }  
+}  
