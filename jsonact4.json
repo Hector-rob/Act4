@@ -1,7 +1,18 @@
-{  
-    "items": {  
-        "name": ["sword","staff","shield"],
-        "price": [2000,3000,4000],   
-        "material": ["metal","ore","platinum"]
-    }  
-}  
+[        
+    {
+        "name": "sword",
+        "price": 2000,   
+        "material": "metal"
+    },
+    {
+        "name": "shield",
+        "price": 3000,   
+        "material": "ore"
+    },
+    {
+        "name": "",
+        "price": 4000,   
+        "material": "platinum"
+    },
+    
+]  
