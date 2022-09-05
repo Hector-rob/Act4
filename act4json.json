@@ -1,0 +1,18 @@
+[        
+    {
+        "name": "sword",
+        "price": 2000,   
+        "material": "metal"
+    },
+    {
+        "name": "shield",
+        "price": 3000,   
+        "material": "ore"
+    },
+    {
+        "name": "staff",
+        "price": 4000,   
+        "material": "platinum"
+    }
+    
+]  
